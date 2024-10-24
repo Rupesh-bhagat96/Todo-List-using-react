@@ -1,8 +1,21 @@
-# React + Vite
+# Todo List App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and fully responsive Todo List application built with React. This app utilizes the Context API for global state management and localStorage to persist data, allowing users to create, update, delete, and mark todos as completed.
 
-Currently, two official plugins are available:
+## Live Demo
+Check out the live version of the app (https://task-maganer.netlify.app/).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- Create new todos
+- Update existing todos
+- Delete todos
+- Mark todos as completed
+- Responsive design
+- Local storage for data persistence
+
+## Technologies Used
+
+- React
+- Javascript
+- Tailwind css
